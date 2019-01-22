@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AttGöra App</string>
+    <string name="button">Välj</string>
+    <string name="button2">Skapa</string>
+    <string name="button3">Ta bort en</string>
+    <string name="button4">Skapa</string>
+    <string name="button5">Ta bort en</string>
+</resources>
